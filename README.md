@@ -25,4 +25,17 @@ hello boss
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Raifulalam/leetcode/tree/master/0009-palindrome-number) |
+| [3462-vowels-game-in-a-string](https://github.com/Raifulalam/leetcode/tree/master/3462-vowels-game-in-a-string) |
+## String
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Raifulalam/leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Raifulalam/leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Raifulalam/leetcode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
