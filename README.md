@@ -17,6 +17,7 @@ hello boss
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raifulalam/leetcode/tree/master/0001-two-sum) |
+| [0204-count-primes](https://github.com/Raifulalam/leetcode/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ hello boss
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Raifulalam/leetcode/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/Raifulalam/leetcode/tree/master/0204-count-primes) |
 | [3462-vowels-game-in-a-string](https://github.com/Raifulalam/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## String
 |  |
@@ -44,4 +46,12 @@ hello boss
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Raifulalam/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Raifulalam/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Raifulalam/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
