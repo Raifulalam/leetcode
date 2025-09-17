@@ -21,6 +21,7 @@ hello boss
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raifulalam/leetcode/tree/master/0001-two-sum) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Raifulalam/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -30,6 +31,7 @@ hello boss
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Raifulalam/leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Raifulalam/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Brainteaser
 |  |
 | ------- |
@@ -38,4 +40,8 @@ hello boss
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Raifulalam/leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Raifulalam/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
