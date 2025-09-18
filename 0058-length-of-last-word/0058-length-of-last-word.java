@@ -1,7 +1,13 @@
 class Solution {
     public int lengthOfLastWord(String s) {
-        String[] words = s.trim().split(" ");
-        if (words.length == 0) return 0;
-        return words[words.length - 1].length();
+        String str=s.trim();
+        int count=0;
+        for(int i=str.length()-1;i>=0;i--){
+            if(str.charAt(i) == ' '){
+                return count;
+            }
+            count++;
+        }
+        return str.length();
     }
 }
