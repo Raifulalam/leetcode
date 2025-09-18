@@ -36,6 +36,7 @@ hello boss
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Raifulalam/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Raifulalam/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Raifulalam/leetcode/tree/master/0020-valid-parentheses) |
 | [3462-vowels-game-in-a-string](https://github.com/Raifulalam/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Raifulalam/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Brainteaser
@@ -78,4 +79,8 @@ hello boss
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Raifulalam/leetcode/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Raifulalam/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
