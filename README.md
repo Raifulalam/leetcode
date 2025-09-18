@@ -18,6 +18,7 @@ hello boss
 | ------- |
 | [0001-two-sum](https://github.com/Raifulalam/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Raifulalam/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Raifulalam/leetcode/tree/master/0014-longest-common-prefix) |
 | [0204-count-primes](https://github.com/Raifulalam/leetcode/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ hello boss
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Raifulalam/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Raifulalam/leetcode/tree/master/0014-longest-common-prefix) |
 | [3462-vowels-game-in-a-string](https://github.com/Raifulalam/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Raifulalam/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Brainteaser
@@ -72,4 +74,8 @@ hello boss
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Raifulalam/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Raifulalam/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
