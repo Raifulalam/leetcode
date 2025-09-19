@@ -13,6 +13,7 @@ hello boss
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Raifulalam/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Raifulalam/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0231-power-of-two](https://github.com/Raifulalam/leetcode/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -33,6 +34,7 @@ hello boss
 | ------- |
 | [0009-palindrome-number](https://github.com/Raifulalam/leetcode/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/Raifulalam/leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Raifulalam/leetcode/tree/master/0231-power-of-two) |
 | [3462-vowels-game-in-a-string](https://github.com/Raifulalam/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## String
 |  |
@@ -94,4 +96,8 @@ hello boss
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Raifulalam/leetcode/tree/master/0011-container-with-most-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Raifulalam/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
