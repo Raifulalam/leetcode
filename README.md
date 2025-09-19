@@ -25,6 +25,7 @@ hello boss
 | [0204-count-primes](https://github.com/Raifulalam/leetcode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Raifulalam/leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Raifulalam/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/Raifulalam/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ hello boss
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Raifulalam/leetcode/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/Raifulalam/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
