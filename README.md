@@ -24,6 +24,7 @@ hello boss
 | [0027-remove-element](https://github.com/Raifulalam/leetcode/tree/master/0027-remove-element) |
 | [0204-count-primes](https://github.com/Raifulalam/leetcode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Raifulalam/leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Raifulalam/leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ hello boss
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Raifulalam/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0300-longest-increasing-subsequence](https://github.com/Raifulalam/leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -84,6 +86,7 @@ hello boss
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Raifulalam/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0300-longest-increasing-subsequence](https://github.com/Raifulalam/leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Trie
 |  |
 | ------- |
