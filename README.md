@@ -45,6 +45,7 @@ hello boss
 | [0009-palindrome-number](https://github.com/Raifulalam/leetcode/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/Raifulalam/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Raifulalam/leetcode/tree/master/0231-power-of-two) |
+| [1642-water-bottles](https://github.com/Raifulalam/leetcode/tree/master/1642-water-bottles) |
 | [3462-vowels-game-in-a-string](https://github.com/Raifulalam/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## String
 |  |
@@ -127,4 +128,8 @@ hello boss
 |  |
 | ------- |
 | [1612-avoid-flood-in-the-city](https://github.com/Raifulalam/leetcode/tree/master/1612-avoid-flood-in-the-city) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/Raifulalam/leetcode/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
