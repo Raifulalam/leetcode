@@ -109,6 +109,7 @@ hello boss
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Raifulalam/leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Raifulalam/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Greedy
 |  |
 | ------- |
@@ -132,4 +133,16 @@ hello boss
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Raifulalam/leetcode/tree/master/1642-water-bottles) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Raifulalam/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Raifulalam/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Raifulalam/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
