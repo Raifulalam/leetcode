@@ -24,6 +24,7 @@ hello boss
 | [0015-3sum](https://github.com/Raifulalam/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Raifulalam/leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Raifulalam/leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Raifulalam/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Raifulalam/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Raifulalam/leetcode/tree/master/0090-subsets-ii) |
 | [0204-count-primes](https://github.com/Raifulalam/leetcode/tree/master/0204-count-primes) |
@@ -99,6 +100,7 @@ hello boss
 | [0015-3sum](https://github.com/Raifulalam/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Raifulalam/leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Raifulalam/leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Raifulalam/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Raifulalam/leetcode/tree/master/0283-move-zeroes) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Raifulalam/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
@@ -132,6 +134,7 @@ hello boss
 | ------- |
 | [0015-3sum](https://github.com/Raifulalam/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Raifulalam/leetcode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/Raifulalam/leetcode/tree/master/0075-sort-colors) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Raifulalam/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Heap (Priority Queue)
 |  |
