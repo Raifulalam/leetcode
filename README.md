@@ -35,6 +35,7 @@ hello boss
 | [1612-avoid-flood-in-the-city](https://github.com/Raifulalam/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2122-count-special-quadruplets](https://github.com/Raifulalam/leetcode/tree/master/2122-count-special-quadruplets) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Raifulalam/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Raifulalam/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +145,7 @@ hello boss
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Raifulalam/leetcode/tree/master/1642-water-bottles) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Raifulalam/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Tree
 |  |
 | ------- |
@@ -161,4 +163,8 @@ hello boss
 | ------- |
 | [0078-subsets](https://github.com/Raifulalam/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Raifulalam/leetcode/tree/master/0090-subsets-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Raifulalam/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 <!---LeetCode Topics End-->
