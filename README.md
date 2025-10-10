@@ -172,4 +172,8 @@ hello boss
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Raifulalam/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Raifulalam/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Raifulalam/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
