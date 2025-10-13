@@ -32,6 +32,7 @@ hello boss
 | [0300-longest-increasing-subsequence](https://github.com/Raifulalam/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/Raifulalam/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0454-4sum-ii](https://github.com/Raifulalam/leetcode/tree/master/0454-4sum-ii) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raifulalam/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Raifulalam/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2122-count-special-quadruplets](https://github.com/Raifulalam/leetcode/tree/master/2122-count-special-quadruplets) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Raifulalam/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
@@ -44,6 +45,7 @@ hello boss
 | ------- |
 | [0001-two-sum](https://github.com/Raifulalam/leetcode/tree/master/0001-two-sum) |
 | [0454-4sum-ii](https://github.com/Raifulalam/leetcode/tree/master/0454-4sum-ii) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raifulalam/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Raifulalam/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2122-count-special-quadruplets](https://github.com/Raifulalam/leetcode/tree/master/2122-count-special-quadruplets) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Raifulalam/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
@@ -64,6 +66,7 @@ hello boss
 | [0014-longest-common-prefix](https://github.com/Raifulalam/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Raifulalam/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Raifulalam/leetcode/tree/master/0058-length-of-last-word) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raifulalam/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3462-vowels-game-in-a-string](https://github.com/Raifulalam/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Raifulalam/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Brainteaser
@@ -144,6 +147,7 @@ hello boss
 | [0015-3sum](https://github.com/Raifulalam/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Raifulalam/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Raifulalam/leetcode/tree/master/0075-sort-colors) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raifulalam/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Raifulalam/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Heap (Priority Queue)
 |  |
