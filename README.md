@@ -37,6 +37,7 @@ hello boss
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raifulalam/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Raifulalam/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2122-count-special-quadruplets](https://github.com/Raifulalam/leetcode/tree/master/2122-count-special-quadruplets) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Raifulalam/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Raifulalam/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Raifulalam/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Raifulalam/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -90,6 +91,7 @@ hello boss
 ## Counting
 |  |
 | ------- |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Raifulalam/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Raifulalam/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Raifulalam/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
@@ -160,6 +162,7 @@ hello boss
 | [0018-4sum](https://github.com/Raifulalam/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Raifulalam/leetcode/tree/master/0075-sort-colors) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raifulalam/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Raifulalam/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Raifulalam/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Heap (Priority Queue)
 |  |
