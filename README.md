@@ -29,6 +29,7 @@ hello boss
 | [0075-sort-colors](https://github.com/Raifulalam/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Raifulalam/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Raifulalam/leetcode/tree/master/0090-subsets-ii) |
+| [0139-word-break](https://github.com/Raifulalam/leetcode/tree/master/0139-word-break) |
 | [0204-count-primes](https://github.com/Raifulalam/leetcode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Raifulalam/leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Raifulalam/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -52,6 +53,7 @@ hello boss
 | ------- |
 | [0001-two-sum](https://github.com/Raifulalam/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raifulalam/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/Raifulalam/leetcode/tree/master/0139-word-break) |
 | [0454-4sum-ii](https://github.com/Raifulalam/leetcode/tree/master/0454-4sum-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raifulalam/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Raifulalam/leetcode/tree/master/1612-avoid-flood-in-the-city) |
@@ -79,6 +81,7 @@ hello boss
 | [0014-longest-common-prefix](https://github.com/Raifulalam/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Raifulalam/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Raifulalam/leetcode/tree/master/0058-length-of-last-word) |
+| [0139-word-break](https://github.com/Raifulalam/leetcode/tree/master/0139-word-break) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raifulalam/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3462-vowels-game-in-a-string](https://github.com/Raifulalam/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Raifulalam/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -134,6 +137,7 @@ hello boss
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Raifulalam/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0139-word-break](https://github.com/Raifulalam/leetcode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Raifulalam/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/Raifulalam/leetcode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Raifulalam/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -141,6 +145,7 @@ hello boss
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Raifulalam/leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Raifulalam/leetcode/tree/master/0139-word-break) |
 ## Stack
 |  |
 | ------- |
@@ -241,4 +246,8 @@ hello boss
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raifulalam/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Raifulalam/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
