@@ -34,6 +34,7 @@ hello boss
 | [0300-longest-increasing-subsequence](https://github.com/Raifulalam/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/Raifulalam/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0454-4sum-ii](https://github.com/Raifulalam/leetcode/tree/master/0454-4sum-ii) |
+| [0941-sort-array-by-parity](https://github.com/Raifulalam/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raifulalam/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Raifulalam/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2122-count-special-quadruplets](https://github.com/Raifulalam/leetcode/tree/master/2122-count-special-quadruplets) |
@@ -125,6 +126,7 @@ hello boss
 | [0027-remove-element](https://github.com/Raifulalam/leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Raifulalam/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Raifulalam/leetcode/tree/master/0283-move-zeroes) |
+| [0941-sort-array-by-parity](https://github.com/Raifulalam/leetcode/tree/master/0941-sort-array-by-parity) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Raifulalam/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
 |  |
@@ -161,6 +163,7 @@ hello boss
 | [0015-3sum](https://github.com/Raifulalam/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Raifulalam/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Raifulalam/leetcode/tree/master/0075-sort-colors) |
+| [0941-sort-array-by-parity](https://github.com/Raifulalam/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raifulalam/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Raifulalam/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Raifulalam/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
