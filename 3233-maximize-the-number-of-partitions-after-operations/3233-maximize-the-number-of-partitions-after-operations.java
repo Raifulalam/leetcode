@@ -1,63 +1,40 @@
-
-public class Solution {
-    private String s;
-    private int k, n;
-    private Map<String, Integer> memo;
-
-    public int maxPartitionsAfterOperations(String s, int k) {
-        this.s = s;
-        this.k = k;
-        this.n = s.length();
-        this.memo = new HashMap<>();
-        return dp(0, false, 0) + 1; // +1 for the first partition
-    }
-
-    private int dp(int i, boolean usedChange, int mask) {
-        if (i == n) return 0;
-
-        String key = i + "," + usedChange + "," + mask;
-        if (memo.containsKey(key)) return memo.get(key);
-
-        int res = 0;
-        int c = s.charAt(i) - 'a';
-        int bitC = 1 << c;
-        int distinct = Integer.bitCount(mask);
-
-        // Option 1: keep s[i] as-is
-        if ((mask & bitC) != 0) {
-            // already in mask
-            res = Math.max(res, dp(i + 1, usedChange, mask));
-        } else {
-            if (distinct < k) {
-                // add to current mask
-                res = Math.max(res, dp(i + 1, usedChange, mask | bitC));
-            } else {
-                // start new partition with just this character
-                res = Math.max(res, 1 + dp(i + 1, usedChange, bitC));
+class Solution {
+    public int maxPartitionsAfterOperations(String S, int k) {
+        if(k == 26) return 1;
+        char[] s = S.toCharArray();
+        int n = s.length;
+        int[] left1 = new int[n], left2 = new int[n];
+        int[] partitions = new int[n];
+        int mask1 = 0, mask2 = 0, count = 1;
+        for(int i = 0; i < n; i++) {
+            int filter = 1 << (s[i] - 'a');
+            mask2 |= mask1 & filter;
+            mask1 |= filter;
+            if(Integer.bitCount(mask1) > k) {
+                mask1 = filter;
+                mask2 = 0;
+                count++;
+            }
+            left1[i] = mask1;
+            left2[i] = mask2;
+            partitions[i] = count;
+        }
+        int ans = count;
+        mask1 = mask2 = count = 0;
+        for(int i = n - 1; i >= 0; i--) {
+            int filter = 1 << (s[i] - 'a');
+            mask2 |= mask1 & filter;
+            mask1 |= filter;
+            if(Integer.bitCount(mask1) > k) {
+                mask1 = filter;
+                mask2 = 0;
+                count++;
+            }
+            if(Integer.bitCount(mask1) == k) {
+                if((filter & mask2) != 0 && (filter & left2[i]) != 0 && Integer.bitCount(left1[i]) == k && (left1[i] | mask1) != (1 << 26) - 1) ans = Math.max(ans, count + partitions[i] + 2);
+                else if(mask2 != 0) ans = Math.max(ans, count + partitions[i] + 1);
             }
         }
-
-        // Option 2: change s[i] to another letter (only if change not yet used)
-        if (!usedChange) {
-            // Try changing s[i] to each possible character (a-z)
-            for (int x = 0; x < 26; x++) {
-                int bitX = 1 << x;
-                if ((mask & bitX) != 0) {
-                    // no new distinct, safe to continue
-                    res = Math.max(res, dp(i + 1, true, mask));
-                } else {
-                    if (distinct < k) {
-                        // room to add a new character to current mask
-                        res = Math.max(res, dp(i + 1, true, mask | bitX));
-                    } else {
-                        // mask is full, must cut here
-                        res = Math.max(res, 1 + dp(i + 1, true, bitX));
-                    }
-                }
-            }
-        }
-
-        memo.put(key, res);
-        return res;
+        return ans;
     }
 }
