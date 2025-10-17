@@ -83,6 +83,7 @@ hello boss
 | [0058-length-of-last-word](https://github.com/Raifulalam/leetcode/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/Raifulalam/leetcode/tree/master/0139-word-break) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raifulalam/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Raifulalam/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Raifulalam/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Raifulalam/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Brainteaser
@@ -140,6 +141,7 @@ hello boss
 | [0139-word-break](https://github.com/Raifulalam/leetcode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Raifulalam/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/Raifulalam/leetcode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Raifulalam/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Raifulalam/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Trie
 |  |
@@ -165,6 +167,7 @@ hello boss
 | [0078-subsets](https://github.com/Raifulalam/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Raifulalam/leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Raifulalam/leetcode/tree/master/0231-power-of-two) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Raifulalam/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Raifulalam/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Sorting
 |  |
@@ -241,6 +244,7 @@ hello boss
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Raifulalam/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Raifulalam/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Sliding Window
 |  |
