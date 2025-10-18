@@ -46,6 +46,7 @@ hello boss
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Raifulalam/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Raifulalam/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Raifulalam/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Raifulalam/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Raifulalam/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Raifulalam/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Hash Table
@@ -161,6 +162,7 @@ hello boss
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/Raifulalam/leetcode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1612-avoid-flood-in-the-city](https://github.com/Raifulalam/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Raifulalam/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Raifulalam/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -179,6 +181,7 @@ hello boss
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raifulalam/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Raifulalam/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Raifulalam/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Raifulalam/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
