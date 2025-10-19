@@ -84,6 +84,7 @@ hello boss
 | [0058-length-of-last-word](https://github.com/Raifulalam/leetcode/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/Raifulalam/leetcode/tree/master/0139-word-break) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raifulalam/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Raifulalam/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Raifulalam/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Raifulalam/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Raifulalam/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -106,6 +107,7 @@ hello boss
 | ------- |
 | [0204-count-primes](https://github.com/Raifulalam/leetcode/tree/master/0204-count-primes) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/Raifulalam/leetcode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Raifulalam/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2122-count-special-quadruplets](https://github.com/Raifulalam/leetcode/tree/master/2122-count-special-quadruplets) |
 ## Number Theory
 |  |
@@ -205,6 +207,7 @@ hello boss
 | [0100-same-tree](https://github.com/Raifulalam/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Raifulalam/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raifulalam/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Raifulalam/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Binary Tree
 |  |
 | ------- |
@@ -242,6 +245,7 @@ hello boss
 | [0100-same-tree](https://github.com/Raifulalam/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Raifulalam/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raifulalam/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Raifulalam/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Combinatorics
 |  |
 | ------- |
