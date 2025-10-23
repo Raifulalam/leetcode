@@ -1,14 +1,16 @@
 class Solution {
     public boolean hasSameDigits(String s) {
-        while(s.length()>2){
-            StringBuilder sb=new StringBuilder();
-            for(int i=0;i<s.length()-1;i++){
-                int a=s.charAt(i)-'0';
-                int b=s.charAt(i+1)-'0';
-                sb.append((a+b)%10);
-            }
-            s=sb.toString();
+        int[] arr=new int[s.length()];
+        for(int i=0;i<s.length();i++){
+            arr[i]=s.charAt(i)-'0';
         }
-        return s.length()==2 && s.charAt(0)==s.charAt(1);
+        while(arr.length>2){
+           int[] next=new int[arr.length-1];
+            for(int i=0;i<arr.length-1;i++){
+                next[i] = (arr[i] + arr[i + 1]) % 10;
+            }
+         arr=next;
+        }
+        return arr[0]==arr[1];
     }
 }
