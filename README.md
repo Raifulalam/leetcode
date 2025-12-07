@@ -78,6 +78,7 @@ hello boss
 | [0204-count-primes](https://github.com/Raifulalam/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Raifulalam/leetcode/tree/master/0231-power-of-two) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/Raifulalam/leetcode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Raifulalam/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/Raifulalam/leetcode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Raifulalam/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Raifulalam/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
