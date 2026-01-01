@@ -27,6 +27,7 @@ hello boss
 | [0016-3sum-closest](https://github.com/Raifulalam/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Raifulalam/leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Raifulalam/leetcode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Raifulalam/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Raifulalam/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Raifulalam/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Raifulalam/leetcode/tree/master/0090-subsets-ii) |
@@ -77,6 +78,7 @@ hello boss
 | ------- |
 | [0002-add-two-numbers](https://github.com/Raifulalam/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Raifulalam/leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Raifulalam/leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Raifulalam/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Raifulalam/leetcode/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/Raifulalam/leetcode/tree/master/0415-add-strings) |
