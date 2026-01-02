@@ -38,6 +38,7 @@ hello boss
 | [0334-increasing-triplet-subsequence](https://github.com/Raifulalam/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0454-4sum-ii](https://github.com/Raifulalam/leetcode/tree/master/0454-4sum-ii) |
 | [0941-sort-array-by-parity](https://github.com/Raifulalam/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Raifulalam/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Raifulalam/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raifulalam/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Raifulalam/leetcode/tree/master/1612-avoid-flood-in-the-city) |
@@ -66,6 +67,7 @@ hello boss
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raifulalam/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/Raifulalam/leetcode/tree/master/0139-word-break) |
 | [0454-4sum-ii](https://github.com/Raifulalam/leetcode/tree/master/0454-4sum-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Raifulalam/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raifulalam/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Raifulalam/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2122-count-special-quadruplets](https://github.com/Raifulalam/leetcode/tree/master/2122-count-special-quadruplets) |
