@@ -80,6 +80,7 @@ hello boss
 | ------- |
 | [0002-add-two-numbers](https://github.com/Raifulalam/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Raifulalam/leetcode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/Raifulalam/leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Raifulalam/leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Raifulalam/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Raifulalam/leetcode/tree/master/0231-power-of-two) |
@@ -101,6 +102,7 @@ hello boss
 | [0005-longest-palindromic-substring](https://github.com/Raifulalam/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Raifulalam/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Raifulalam/leetcode/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Raifulalam/leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Raifulalam/leetcode/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/Raifulalam/leetcode/tree/master/0139-word-break) |
 | [0415-add-strings](https://github.com/Raifulalam/leetcode/tree/master/0415-add-strings) |
@@ -228,6 +230,7 @@ hello boss
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Raifulalam/leetcode/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/Raifulalam/leetcode/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/Raifulalam/leetcode/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Raifulalam/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
