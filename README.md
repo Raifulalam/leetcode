@@ -102,6 +102,7 @@ hello boss
 | [0005-longest-palindromic-substring](https://github.com/Raifulalam/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Raifulalam/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Raifulalam/leetcode/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Raifulalam/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Raifulalam/leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Raifulalam/leetcode/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/Raifulalam/leetcode/tree/master/0139-word-break) |
