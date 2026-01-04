@@ -41,6 +41,7 @@ hello boss
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Raifulalam/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Raifulalam/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raifulalam/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1390-four-divisors](https://github.com/Raifulalam/leetcode/tree/master/1390-four-divisors) |
 | [1612-avoid-flood-in-the-city](https://github.com/Raifulalam/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2122-count-special-quadruplets](https://github.com/Raifulalam/leetcode/tree/master/2122-count-special-quadruplets) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Raifulalam/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -86,6 +87,7 @@ hello boss
 | [0231-power-of-two](https://github.com/Raifulalam/leetcode/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/Raifulalam/leetcode/tree/master/0415-add-strings) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/Raifulalam/leetcode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
+| [1390-four-divisors](https://github.com/Raifulalam/leetcode/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Raifulalam/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/Raifulalam/leetcode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Raifulalam/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
