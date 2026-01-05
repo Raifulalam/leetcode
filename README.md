@@ -93,6 +93,7 @@ hello boss
 | [1642-water-bottles](https://github.com/Raifulalam/leetcode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Raifulalam/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Raifulalam/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/Raifulalam/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Raifulalam/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Raifulalam/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Raifulalam/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -202,6 +203,7 @@ hello boss
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/Raifulalam/leetcode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1612-avoid-flood-in-the-city](https://github.com/Raifulalam/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1975-maximum-matrix-sum](https://github.com/Raifulalam/leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/Raifulalam/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Raifulalam/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Raifulalam/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Raifulalam/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
