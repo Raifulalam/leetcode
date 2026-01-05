@@ -43,6 +43,7 @@ hello boss
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raifulalam/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/Raifulalam/leetcode/tree/master/1390-four-divisors) |
 | [1612-avoid-flood-in-the-city](https://github.com/Raifulalam/leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1975-maximum-matrix-sum](https://github.com/Raifulalam/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2122-count-special-quadruplets](https://github.com/Raifulalam/leetcode/tree/master/2122-count-special-quadruplets) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Raifulalam/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Raifulalam/leetcode/tree/master/2169-simple-bank-system) |
@@ -200,6 +201,7 @@ hello boss
 | [0334-increasing-triplet-subsequence](https://github.com/Raifulalam/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/Raifulalam/leetcode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1612-avoid-flood-in-the-city](https://github.com/Raifulalam/leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1975-maximum-matrix-sum](https://github.com/Raifulalam/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Raifulalam/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Raifulalam/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Raifulalam/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -332,5 +334,6 @@ hello boss
 ## Matrix
 |  |
 | ------- |
+| [1975-maximum-matrix-sum](https://github.com/Raifulalam/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Raifulalam/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 <!---LeetCode Topics End-->
