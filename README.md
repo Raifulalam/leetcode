@@ -42,6 +42,7 @@ hello boss
 | [1018-binary-prefix-divisible-by-5](https://github.com/Raifulalam/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raifulalam/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/Raifulalam/leetcode/tree/master/1390-four-divisors) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Raifulalam/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1612-avoid-flood-in-the-city](https://github.com/Raifulalam/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1975-maximum-matrix-sum](https://github.com/Raifulalam/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2122-count-special-quadruplets](https://github.com/Raifulalam/leetcode/tree/master/2122-count-special-quadruplets) |
@@ -181,6 +182,7 @@ hello boss
 | [0139-word-break](https://github.com/Raifulalam/leetcode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Raifulalam/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/Raifulalam/leetcode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Raifulalam/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Raifulalam/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Raifulalam/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Trie
