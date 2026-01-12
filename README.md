@@ -92,6 +92,7 @@ hello boss
 | [0204-count-primes](https://github.com/Raifulalam/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Raifulalam/leetcode/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/Raifulalam/leetcode/tree/master/0415-add-strings) |
+| [1154-day-of-the-year](https://github.com/Raifulalam/leetcode/tree/master/1154-day-of-the-year) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Raifulalam/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1323-maximum-69-number](https://github.com/Raifulalam/leetcode/tree/master/1323-maximum-69-number) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/Raifulalam/leetcode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
@@ -119,6 +120,7 @@ hello boss
 | [0071-simplify-path](https://github.com/Raifulalam/leetcode/tree/master/0071-simplify-path) |
 | [0139-word-break](https://github.com/Raifulalam/leetcode/tree/master/0139-word-break) |
 | [0415-add-strings](https://github.com/Raifulalam/leetcode/tree/master/0415-add-strings) |
+| [1154-day-of-the-year](https://github.com/Raifulalam/leetcode/tree/master/1154-day-of-the-year) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raifulalam/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Raifulalam/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Raifulalam/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
