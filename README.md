@@ -93,6 +93,7 @@ hello boss
 | [0231-power-of-two](https://github.com/Raifulalam/leetcode/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/Raifulalam/leetcode/tree/master/0415-add-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Raifulalam/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1323-maximum-69-number](https://github.com/Raifulalam/leetcode/tree/master/1323-maximum-69-number) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/Raifulalam/leetcode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1390-four-divisors](https://github.com/Raifulalam/leetcode/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Raifulalam/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -208,6 +209,7 @@ hello boss
 | ------- |
 | [0011-container-with-most-water](https://github.com/Raifulalam/leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Raifulalam/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [1323-maximum-69-number](https://github.com/Raifulalam/leetcode/tree/master/1323-maximum-69-number) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/Raifulalam/leetcode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1612-avoid-flood-in-the-city](https://github.com/Raifulalam/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1975-maximum-matrix-sum](https://github.com/Raifulalam/leetcode/tree/master/1975-maximum-matrix-sum) |
