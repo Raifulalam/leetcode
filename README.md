@@ -40,6 +40,7 @@ hello boss
 | [0941-sort-array-by-parity](https://github.com/Raifulalam/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Raifulalam/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Raifulalam/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Raifulalam/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raifulalam/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/Raifulalam/leetcode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Raifulalam/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -91,6 +92,7 @@ hello boss
 | [0204-count-primes](https://github.com/Raifulalam/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Raifulalam/leetcode/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/Raifulalam/leetcode/tree/master/0415-add-strings) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Raifulalam/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/Raifulalam/leetcode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1390-four-divisors](https://github.com/Raifulalam/leetcode/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Raifulalam/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -363,4 +365,8 @@ hello boss
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Raifulalam/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Raifulalam/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
