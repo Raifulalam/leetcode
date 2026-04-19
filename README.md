@@ -44,6 +44,7 @@ hello boss
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raifulalam/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/Raifulalam/leetcode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Raifulalam/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1470-shuffle-the-array](https://github.com/Raifulalam/leetcode/tree/master/1470-shuffle-the-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/Raifulalam/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1929-concatenation-of-array](https://github.com/Raifulalam/leetcode/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/Raifulalam/leetcode/tree/master/1975-maximum-matrix-sum) |
