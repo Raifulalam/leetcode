@@ -37,6 +37,7 @@ hello boss
 | [0300-longest-increasing-subsequence](https://github.com/Raifulalam/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/Raifulalam/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0454-4sum-ii](https://github.com/Raifulalam/leetcode/tree/master/0454-4sum-ii) |
+| [0485-max-consecutive-ones](https://github.com/Raifulalam/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0941-sort-array-by-parity](https://github.com/Raifulalam/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Raifulalam/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Raifulalam/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
