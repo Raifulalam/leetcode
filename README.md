@@ -45,6 +45,7 @@ hello boss
 | [1390-four-divisors](https://github.com/Raifulalam/leetcode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Raifulalam/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1612-avoid-flood-in-the-city](https://github.com/Raifulalam/leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1929-concatenation-of-array](https://github.com/Raifulalam/leetcode/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/Raifulalam/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2122-count-special-quadruplets](https://github.com/Raifulalam/leetcode/tree/master/2122-count-special-quadruplets) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Raifulalam/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -258,6 +259,7 @@ hello boss
 | [0043-multiply-strings](https://github.com/Raifulalam/leetcode/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/Raifulalam/leetcode/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/Raifulalam/leetcode/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/Raifulalam/leetcode/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Raifulalam/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Raifulalam/leetcode/tree/master/2169-simple-bank-system) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Raifulalam/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
