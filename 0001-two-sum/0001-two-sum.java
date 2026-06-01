@@ -1,16 +1,12 @@
-
 class Solution {
-    public static int[] twoSum(int[] nums, int target) {
-           int a=0;
-           int v=0;
+    public int[] twoSum(int[] nums, int target) {
         for(int i=0;i<nums.length;i++){
             for(int j=i+1;j<nums.length;j++){
-                if(nums[j]==target-nums[i]){
-                    a=i;
-                    v=j;
+                if(nums[i]+nums[j]==target){
+                    return new int[]{i,j};
                 }
             }
         }
-        return new int[]{a,v};
+        return new int[]{};
     }
 }
